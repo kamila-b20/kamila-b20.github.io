@@ -4,13 +4,13 @@
 	 <link rel="stylesheet" type="text/css" href="mystyle.css"> 
 	 <a href="homepage.html">homepage</a>
 	 <a href="aboutus.html">aboutus</a>
-	  <a href="Flights.html">Flights</a>
+	 <a href="Flights.html">Flights</a>
 	 <a href="Beaches.html">Beaches</a>
-	  <a href="hotels.html">Hotels</a>
+	 <a href="index.html">Index</a>
 	<title></title>
 </head>
 <body>
-	<img src="download-9.jpg" alt="Packing list">
-<P> This is a packing list page!</P>
+	
+<P> Beaches!</P>
 </body>
 </html>
